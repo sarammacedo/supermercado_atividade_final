@@ -1,0 +1,5 @@
+[
+  "test_api.py::test_cadastrar_listar_e_buscar_produto",
+  "test_api.py::test_produto_inexistente_retorna_404",
+  "test_api.py::test_resumo_agregado"
+]

@@ -1,0 +1,6 @@
+# Created by pytest automatically.
+@"
+.env
+__pycache__/
+.pytest_cache/
+"@ | Set-Content -Encoding utf8 .gitignore
